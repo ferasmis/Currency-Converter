@@ -1,0 +1,24 @@
+C:\Users\HP\AppData\Local\Temporary Projects\Currency Converter\bin\Debug\Currency Converter.exe.config
+C:\Users\HP\AppData\Local\Temporary Projects\Currency Converter\bin\Debug\Currency Converter.exe
+C:\Users\HP\AppData\Local\Temporary Projects\Currency Converter\bin\Debug\Currency Converter.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\Currency Converter\bin\Debug\Currency Converter.xml
+C:\Users\HP\AppData\Local\Temporary Projects\Currency Converter\obj\Debug\Currency Converter.vbprojAssemblyReference.cache
+C:\Users\HP\AppData\Local\Temporary Projects\Currency Converter\obj\Debug\Currency_Converter.Form1.resources
+C:\Users\HP\AppData\Local\Temporary Projects\Currency Converter\obj\Debug\Currency_Converter.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\Currency Converter\obj\Debug\Currency Converter.vbproj.GenerateResource.cache
+C:\Users\HP\AppData\Local\Temporary Projects\Currency Converter\obj\Debug\Currency Converter.vbproj.CoreCompileInputs.cache
+C:\Users\HP\AppData\Local\Temporary Projects\Currency Converter\obj\Debug\Currency Converter.exe
+C:\Users\HP\AppData\Local\Temporary Projects\Currency Converter\obj\Debug\Currency Converter.xml
+C:\Users\HP\AppData\Local\Temporary Projects\Currency Converter\obj\Debug\Currency Converter.pdb
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Currency Converter Assignment 3\Currency Converter\bin\Debug\Currency Converter.exe.config
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Currency Converter Assignment 3\Currency Converter\bin\Debug\Currency Converter.exe
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Currency Converter Assignment 3\Currency Converter\bin\Debug\Currency Converter.pdb
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Currency Converter Assignment 3\Currency Converter\bin\Debug\Currency Converter.xml
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Currency Converter Assignment 3\Currency Converter\obj\Debug\Currency Converter.vbprojAssemblyReference.cache
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Currency Converter Assignment 3\Currency Converter\obj\Debug\Currency_Converter.Form1.resources
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Currency Converter Assignment 3\Currency Converter\obj\Debug\Currency_Converter.Resources.resources
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Currency Converter Assignment 3\Currency Converter\obj\Debug\Currency Converter.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Currency Converter Assignment 3\Currency Converter\obj\Debug\Currency Converter.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Currency Converter Assignment 3\Currency Converter\obj\Debug\Currency Converter.exe
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Currency Converter Assignment 3\Currency Converter\obj\Debug\Currency Converter.xml
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\Currency Converter Assignment 3\Currency Converter\obj\Debug\Currency Converter.pdb
